@@ -3,7 +3,7 @@
 def multiply num1,num2
   return num1 * num2
 end
-
+ 
 # Write a function that multiplies three numbers and returns the result
 # add_three
 def add_three a,b,c
